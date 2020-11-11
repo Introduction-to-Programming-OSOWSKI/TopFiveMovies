@@ -14,9 +14,9 @@ public class Tests {
 
 
    @Test
-   public void test(){
+   public void testTopFiveMovies(){
        App.main(null);
-       //assertEquals("EXPECTED", App.testMethod(), "ERROR MESSAGE");
+       assertEquals("a, b, c, e, f", App.topFiveMovies("a", "b", "c", "d", "e"), "INCORRECT. DID OYU ADD COMMAS AND SPACES?");
    }
 
 }
