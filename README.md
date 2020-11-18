@@ -3,15 +3,18 @@
 ## **Assignment Description**
 Create a method called topFiveMovies that returns your top five movies separated by a comma and space
 
-## **Example**
-topFiveMovies("Shrek", "Shrek 2", "Shrek 3", "Shrek 4", Shrek 5")
->Shrek, Shrek 2, Shrek 3, Shrek 4, Shrek 5
+## **Examples**
+>topFiveMovies("Shrek", "Shrek 2", "Shrek 3", "Shrek 4", Shrek 5")  
+Shrek, Shrek 2, Shrek 3, Shrek 4, Shrek 5
 
 ## **Limitations**
 N/A
 
 ## **Hints**  
 Don't forget to add commas and spaces between each movie in the return statement.
+
+## **Concepts**  
+Methods, String
 
 ---
 
